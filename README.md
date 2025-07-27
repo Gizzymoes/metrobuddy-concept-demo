@@ -1,5 +1,14 @@
-# metrobuddy-concept-demo
+# MetroBuddy Concept Demo
 
-My personal proof of concept AI-powered T&amp;W Metro assistant.
+Trying to create my own AI-powered assistant for Tyne and Wear Metro whilst also using the Vercel AI SDK.
 
-This is my set up branch!
+## Setup
+
+- Install: `npm install`
+- Run: `npm run dev`
+- Env: Add .env.local with GROQ_API_KEY, etc...
+
+## Features (This is just a POC)
+
+- Conversational queries for accurate train times.
+- Integrates TransportAPI for realtime data.
